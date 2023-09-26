@@ -13,7 +13,7 @@ Convert any youtube watch link to Piped !
 
 ## Build
 
-build piper with cargo
+run python script
 
 ```bash
   git clone https://github.com/erfanmehrjoo/piped
